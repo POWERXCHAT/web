@@ -1,0 +1,251 @@
+{
+  "title": "Privacy Policy – POWERXCHAT",
+  "lastUpdated": "Last updated: [13-10-2025]",
+  "appName": "Power X",
+  "intro": "We, [Ayman Faraj Allah], manage the social media application Power X (\"Power X\"). This policy explains how we collect, use, disclose, and protect your information. By using the Application, you agree to this policy.",
+  "sections": {
+    "informationCollection": {
+      "title": "1. Information We Collect",
+      "content": "",
+      "subsections": [
+        {
+          "title": "A. Information You Provide:",
+          "points": [
+            "Account Data: Name, email, phone number, profile picture, date of birth.",
+            "User Content: Posts, comments, photos, videos, stories, and live streams.",
+            "Contacts (optional): If you sync contacts, we may collect phone numbers or email addresses to help you connect with others."
+          ]
+        },
+        {
+          "title": "B. Automatically Collected Information:",
+          "points": [
+            "Device Data: IP address, device ID, operating system, browser type, mobile carrier.",
+            "Usage Data: Time spent in the app, features used, interactions (likes, shares...), and search history.",
+            "Location Data: Approximate or precise location (when enabled) to display local content or nearby friends.",
+            "Cookies: We use cookies and similar technologies (see Section 6)."
+          ]
+        },
+        {
+          "title": "C. Permissions We Request:",
+          "content": "To provide our services, Power X may request the following permissions on Android devices:",
+          "points": [
+            "Camera & Microphone: To enable voice/video calls and live streaming.",
+            "Location (GPS): To show nearby friends and provide location-based content (optional).",
+            "Storage (Photos/Media/Files): To upload and share photos and videos.",
+            "Contacts (optional): To help users discover their friends.",
+            "Internet & Network Access: To connect to our servers and run all app features."
+          ],
+          "note": "You can deny or revoke any of these permissions from your device settings, but some app features may not work properly without them."
+        }
+      ]
+    },
+    "howWeUse": {
+      "title": "2. How We Use Your Information",
+      "content": "We use your data to:",
+      "points": [
+        "Run and personalize the app (e.g., customizing the home page and suggesting friends).",
+        "Display targeted ads (when enabled) based on your activity and interests.",
+        "Improve features and develop new tools (e.g., analytics and performance).",
+        "Moderate content and enforce community policies (e.g., removing harmful content).",
+        "Send service updates, security alerts, and promotional messages (with the ability to unsubscribe)."
+      ]
+    },
+    "informationSharing": {
+      "title": "3. Information Sharing",
+      "content": "We may share your data with:",
+      "points": [
+        "Other users: When you post content publicly or within groups.",
+        "Advertisers: Non-identifiable data (e.g., age groups) for advertising purposes.",
+        "Service providers: Hosting partners, analytics, and customer support.",
+        "Legal entities: Upon request or to protect rights and safety.",
+        "Third parties: When you link your account with services like Google or Facebook."
+      ]
+    },
+    "ads": {
+      "title": "4. Ads and Tracking",
+      "content": "",
+      "points": [
+        "We use external tools like Google Ads and Facebook Audience Network to display ads.",
+        "These parties may collect data using cookies to personalize ads.",
+        "You can manage your ad preferences from Settings > Ads."
+      ]
+    },
+    "dataRetention": {
+      "title": "5. Data Retention and Account Deletion",
+      "points": [
+        "We retain your data as long as your account is active or for legal compliance.",
+        "When deleting your account, data is removed within 30 days (except for backups or legal obligations).",
+        "Some public posts (e.g., comments) may remain if shared by other users."
+      ]
+    },
+    "cookies": {
+      "title": "6. Cookies and Similar Technologies",
+      "points": [
+        "We use cookies, pixel technologies, and SDKs to analyze usage and personalize ads.",
+        "Disabling cookies may affect some app features."
+      ]
+    },
+    "yourRights": {
+      "title": "7. Your Rights",
+      "content": "Depending on your location, you can:",
+      "points": [
+        "Access, modify, or delete your data.",
+        "Turn off ads or tracking (from Settings > Privacy).",
+        "Request a copy of your data (data portability).",
+        "Withdraw consent (e.g., disable location)."
+      ],
+      "note": "For EU and UK users, complaints can be filed with the local data protection authority. For requests, contact us at: owner@powerx.chat"
+    },
+    "security": {
+      "title": "8. Security and Moderation",
+      "points": [
+        "Users can report any offensive content, and reports are reviewed within 24 to 48 hours.",
+        "Violations may result in bans, suspensions, or legal action."
+      ]
+    },
+    "internationalTransfers": {
+      "title": "9. International Data Transfers",
+      "points": [
+        "Your data may be processed outside your country.",
+        "We use GDPR-compliant measures (e.g., Standard Contractual Clauses) to ensure security."
+      ],
+      "note": "Power X is committed to Google Play's Family and Child Safety policies to ensure a safe environment for all users."
+    },
+    "childrenPrivacy": {
+      "title": "10. Children's Privacy and Safety",
+      "content": "",
+      "points": [
+        "Power X is not intended for users under 16 years old (or under 13 outside EU/UK).",
+        "We are fully committed to protecting children and maintaining a safe online environment.",
+        "We strictly prohibit:",
+        "  • Any form of child exploitation or abuse.",
+        "  • Any sexual, violent, or harmful content related to minors.",
+        "  • Any attempt to communicate with or target minors for inappropriate purposes.",
+        "  • Sharing or storing any material that harms or exploits children in any way.",
+        "Any user violating this will be permanently banned, and authorities may be notified.",
+        "Violating accounts are deleted immediately upon discovery, and the app is continuously monitored to ensure compliance with child safety policies.",
+        "Power X has a specialized and trained team to handle child safety issues and respond to incidents.",
+        "Users can easily report any harmful content through the \"Report\" button next to each post, comment, or live stream.",
+        "When suspecting content harmful to children, please contact the safety team directly at:"
+      ],
+      "email": "childsafety@powerx.chat"
+    },
+    "policyUpdates": {
+      "title": "11. Policy Updates",
+      "points": [
+        "We will notify users of any significant changes via in-app notification or email.",
+        "Continued use of the app constitutes acceptance of updates."
+      ]
+    },
+    "rewardsTermsTitle": "📜 Terms and Conditions of the Rewards System in Power X App",
+    "rewardsTerms": {
+      "title": "📜 Terms and Conditions of the Rewards System in Power X App",
+      "sections": [
+        {
+          "title": "1. Introduction",
+          "content": "Welcome to Power X. By using the invitation features, points and rewards system, rewarded ad viewing, or creative participation (live streaming, posts, interaction...), you agree to fully comply with these terms. The rewards system in Power X aims to encourage positive interaction within the app by granting users digital points (Power Points) used only within the app environment.",
+          "note": "These points are not a digital currency, not a financial investment, and not a means of direct profit."
+        },
+        {
+          "title": "2. Definition of Points and Wallets",
+          "content": "Power Points are a virtual balance used only within the app and cannot be converted into real money, digital currencies, or external financial instruments under any circumstances. There are two types of wallets in the system:",
+          "points": [
+            "1. Rewards Wallet: Includes points earned from invitations, rewarded ads, daily interaction, public activities, or points purchased from Google Play Store.",
+            "2. Creator Wallet: Includes points received by creators from user support during live streams or on posts."
+          ],
+          "note": "Points in wallets remain valid without an expiration date, except in cases of fraud or policy violations."
+        },
+        {
+          "title": "3. Earning Points",
+          "content": "Users can earn points through legitimate activities within the app such as:",
+          "points": [
+            "Inviting friends via personal invitation link provided they are real and active for 30 days and invite 5 other real users.",
+            "Watching optional rewarded ads.",
+            "Daily interaction and continuous use of the app.",
+            "Creating content that gets real engagement.",
+            "Participating in live streams."
+          ],
+          "note": "Points are not awarded just for signing up or downloading the app."
+        },
+        {
+          "title": "4. Invitation Rewards",
+          "content": "The user gets 200 Power Points when:",
+          "points": [
+            "1. The invited friend remains active for 30 consecutive days.",
+            "2. The invited friend invites 5 other real users.",
+            "3. There is no duplication in devices, IP, or accounts."
+          ],
+          "note": "All activities are automatically verified before issuing the reward."
+        },
+        {
+          "title": "5. Using Points",
+          "content": "Points can be used within the app only for the purpose of:",
+          "points": [
+            "Account verification or upgrade.",
+            "Purchasing stickers and digital gifts.",
+            "Supporting creators during live streams or on posts.",
+            "Pinning comments or unlocking cosmetic features.",
+            "Sending digital gifts or stickers to other users."
+          ],
+          "note": "Points are automatically deducted upon completing any of these operations."
+        },
+        {
+          "title": "6. Converting Points to Money (for Creators)",
+          "points": [
+            "Only creators can convert points in the creator wallet to real money.",
+            "This conversion is compensation for creative activity, not an invitation reward.",
+            "Points must come from other users' support, not self-support.",
+            "The monetary value of points is determined by Power X management (e.g., 100 points = $0.50).",
+            "Power X reserves the right to adjust the price or conditions according to local laws.",
+            "Withdrawals are processed after identity verification (KYC) and source of points."
+          ]
+        },
+        {
+          "title": "7. Identity Verification (KYC)",
+          "content": "Users or creators may be required to provide a valid national ID or passport. Fake documents are completely prohibited, and any forgery results in account suspension and deletion of earned points."
+        },
+        {
+          "title": "8. Anti-Fraud Policy",
+          "content": "The following are strictly prohibited:",
+          "points": [
+            "Creating fake or duplicate accounts.",
+            "Using VPN or device-changing tools.",
+            "Selling or transferring points outside the app.",
+            "Self-support in posts or live streams."
+          ],
+          "note": "Power X reserves the right to cancel any unlawful points or rewards, and permanently suspend violating accounts."
+        },
+        {
+          "title": "9. Complaints and Support",
+          "content": "Users have the right to submit complaints or inquiries about the rewards system via email:",
+          "email": "support@powerx.chat",
+          "note": "Power X management commits to responding within 7 business days."
+        },
+        {
+          "title": "10. App Rights and Modifications",
+          "content": "Power X reserves the right to modify or update these terms or policies without prior notice. The updated version is published within the app or on the official website. Continued use is considered acceptance of the modifications."
+        },
+        {
+          "title": "11. Acknowledgment and Consent",
+          "content": "By using Power X or any of the rewards features, you acknowledge that you:",
+          "points": [
+            "Have read and understood all the above terms.",
+            "Understand that Power X may suspend or modify the system according to local regulations.",
+            "Understand that points are not a digital currency or source of income.",
+            "Your participation in the system is for entertainment and social purposes only."
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "📞 Contact Us",
+      "content": "For inquiries or requests:",
+      "points": [
+        "Email: owner@powerx.chat",
+        "Phone: +201118199375",
+        "Address: Qa' al-Qurayn – Al-Manara – Idris Mosque"
+      ],
+      "note": "This policy is governed by the laws of the State of Palestine."
+    }
+  }
+}
