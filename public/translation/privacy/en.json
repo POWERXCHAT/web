@@ -94,7 +94,7 @@
         "Request a copy of your data (data portability).",
         "Withdraw consent (e.g., disable location)."
       ],
-      "note": "For EU and UK users, complaints can be filed with the local data protection authority. For requests, contact us at: owner@powerx.chat"
+      "note": "For EU and UK users, complaints can be filed with the local data protection authority. For requests, contact us at: owner@powerx.sbs"
     },
     "security": {
       "title": "8. Security and Moderation",
@@ -218,7 +218,7 @@
         {
           "title": "9. Complaints and Support",
           "content": "Users have the right to submit complaints or inquiries about the rewards system via email:",
-          "email": "support@powerx.chat",
+          "email": "support@powerx.sbs",
           "note": "Power X management commits to responding within 7 business days."
         },
         {
@@ -241,7 +241,7 @@
       "title": "📞 Contact Us",
       "content": "For inquiries or requests:",
       "points": [
-        "Email: owner@powerx.chat",
+        "Email: owner@powerx.sbs",
         "Phone: +201118199375",
         "Address: Qa' al-Qurayn – Al-Manara – Idris Mosque"
       ],
