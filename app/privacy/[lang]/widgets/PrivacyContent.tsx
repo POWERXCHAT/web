@@ -5,7 +5,7 @@ import { ContactSection } from "./ContactSection";
 import { BackButton } from "./BackButton";
 import "../privacy.css";
 
-interface Subsection {
+export interface Subsection {
   title?: string;
   content?: string;
   points?: string[];
@@ -13,7 +13,7 @@ interface Subsection {
   email?: string;
 }
 
-interface Section {
+export interface Section {
   title: string;
   content?: string;
   points?: string[];
@@ -22,7 +22,7 @@ interface Section {
   email?: string;
 }
 
-interface RewardSection {
+export interface RewardSection {
   title: string;
   content?: string;
   points?: string[];
@@ -30,18 +30,18 @@ interface RewardSection {
   email?: string;
 }
 
-interface RewardsTerms {
+export interface RewardsTerms {
   title: string;
   sections: RewardSection[];
 }
 
-interface Dictionary {
+export interface Dictionary {
   title: string;
   lastUpdated: string;
   appName: string;
   intro: string;
   sections: {
-    [key: string]: Section | RewardsTerms;
+    [key: string]: Section | RewardsTerms | string;
   };
 }
 
@@ -59,6 +59,7 @@ export function PrivacyContent({ dictionary, lang }: PrivacyContentProps) {
   let contactSection: Section | null = null;
 
   Object.entries(sections).forEach(([key, section]) => {
+    if (typeof section === "string") return; // skip string fields like rewardsTermsTitle
     if (key === "rewardsTerms") {
       rewardsTerms = section as RewardsTerms;
     } else if (key === "contact") {
@@ -67,6 +68,9 @@ export function PrivacyContent({ dictionary, lang }: PrivacyContentProps) {
       regularSections.push([key, section as Section]);
     }
   });
+
+  const rt = rewardsTerms as RewardsTerms | null;
+  const cs = contactSection as Section | null;
 
   return (
     <div className="privacy-page" dir={lang === "ar" ? "rtl" : "ltr"}>
@@ -89,20 +93,20 @@ export function PrivacyContent({ dictionary, lang }: PrivacyContentProps) {
         ))}
 
         {/* Rewards Terms Section */}
-        {rewardsTerms && (
+        {rt && (
           <RewardsTermsSection
-            title={rewardsTerms.title}
-            sections={rewardsTerms.sections}
+            title={rt.title}
+            sections={rt.sections}
           />
         )}
 
         {/* Contact Section */}
-        {contactSection && (
+        {cs && (
           <ContactSection
-            title={contactSection.title}
-            content={contactSection.content || ""}
-            points={contactSection.points || []}
-            note={contactSection.note}
+            title={cs.title}
+            content={cs.content || ""}
+            points={cs.points || []}
+            note={cs.note}
           />
         )}
 
