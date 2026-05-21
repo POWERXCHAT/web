@@ -1,0 +1,23 @@
+{
+  "title": "مرحبًا بعودتك",
+  "subtitle": "سجل الدخول للمتابعة إلى PowerX",
+  "emailLabel": "البريد الإلكتروني",
+  "emailPlaceholder": "أدخل بريدك الإلكتروني",
+  "passwordLabel": "كلمة المرور",
+  "passwordPlaceholder": "أدخل كلمة المرور",
+  "loginButton": "تسجيل الدخول",
+  "signupButton": "إنشاء حساب",
+  "googleButton": "المتابعة عبر Google",
+  "noAccount": "ليس لديك حساب؟",
+  "hasAccount": "لديك حساب بالفعل؟",
+  "loginSuccess": "تم تسجيل الدخول بنجاح!",
+  "loginFailed": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+  "signupSuccess": "تم إنشاء الحساب! تحقق من بريدك الإلكتروني.",
+  "signupFailed": "فشل إنشاء الحساب",
+  "languageSwitch": "English",
+  "themeToggle": "ليلي",
+  "signupTitle": "إنشاء حساب",
+  "signupSubtitle": "انضم إلى PowerX اليوم",
+  "signingIn": "جاري تسجيل الدخول...",
+  "creatingAccount": "جاري إنشاء الحساب..."
+}

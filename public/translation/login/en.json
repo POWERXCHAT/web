@@ -1,0 +1,23 @@
+{
+  "title": "Welcome Back",
+  "subtitle": "Sign in to continue to PowerX",
+  "emailLabel": "Email",
+  "emailPlaceholder": "Enter your email",
+  "passwordLabel": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "loginButton": "Login",
+  "signupButton": "Create Account",
+  "googleButton": "Continue with Google",
+  "noAccount": "Don't have an account?",
+  "hasAccount": "Already have an account?",
+  "loginSuccess": "Login successful!",
+  "loginFailed": "Invalid email or password",
+  "signupSuccess": "Account created! Check your email.",
+  "signupFailed": "Failed to create account",
+  "languageSwitch": "عربي",
+  "themeToggle": "Dark",
+  "signupTitle": "Create Account",
+  "signupSubtitle": "Join PowerX today",
+  "signingIn": "Signing in...",
+  "creatingAccount": "Creating account..."
+}
